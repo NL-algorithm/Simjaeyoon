@@ -52,6 +52,8 @@ void recur(int k)
         cout << "____";
     }
     cout << "라고 답변하였지.\n";
+
+    return;
 }
 
 int main()
